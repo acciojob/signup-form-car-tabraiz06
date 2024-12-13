@@ -3,5 +3,11 @@
 form{
 	display:flex;
 	flex-direction:column;
+	input[type="checkbox"]{
+		align-self:left;
+		position:relative;
+		left:-320px;
+		
+	}
 	
 }
